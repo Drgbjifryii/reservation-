@@ -2,8 +2,8 @@
 #include<stdlib.h>
 #include<string.h>
 #include<windows.h>
-void adminpa#include<stdio.h>
-ge();
+#include<stdio.h>
+void adminpage();
 void addrecord();
 void modifyrecord();
 void deleterecord();
